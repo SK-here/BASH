@@ -268,19 +268,4 @@ fi
 
 
 
-#################################################################
-#								#
-#								#
-#                      Custom User setup                       	#
-#								#
-#								#
-#################################################################
 
-
-# Custom user alias
-alias ram='sudo ~/scripts/clear_RAM.sh'
-alias mv='mv -v'
-alias cp='cp -v'
-alias rm='rm -rvfi'
-alias jn='jupyter-notebook'
-alias check='sudo dnf update -y && sudo dnf upgrade -y'
