@@ -1,19 +1,19 @@
-#BASH
-
-@Author: SK
-
-This Repo contains all things particularly related to Linux Environment
+# #!/bin/bash
 
 
-the readme will be updated from time to as per new item added alongwith it's description
+This Repo contains all files associated with to Bash/Zsh Environment
+
+- **`.zshrc :`** Contains all the custom configuraions & theme for zsh user profile
+
+    Prerequisites:
+    - oh-my-zsh
+    - auto-suggestions plugin
 
 
-___________________________________________
+- **`.bashrc :`** Contains the fancy terminal configuration of bash user profile
 
-> ##### 1. `.zshrc` 
+- **`clear-buffer.sh :`** Bash script to clear memory buffer
 
-File contains the zsh shell all the custom configuraions to better use of zsh shell
 
-Prerequisites:
-- oh-my-zsh
-- auto-suggestions plugin
+Thanks,
+### @Author: SK
